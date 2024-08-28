@@ -1,7 +1,7 @@
-
-
-
-
+## **Cobrar**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
 
 
 # **APIs**
@@ -16,4 +16,18 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
         -   Nome Serviço        |   IP BANCO
         - Tasken Process Scheduler | 192.168.1.16
 
-- 
+# **Banco de Dados**
+- 192.168.1.16 - Banco de Dados
+
+# **Linux**
+- 192.168.1.93 - Aplicação
+    - Docker 
+        - srcwebdashboard | 9000
+        - autonegociadordashboard | 8081
+        - analyticsapi
+        - srcwebapi | 3000
+        - acionamento
+        - autonegociadorapi
+        - acordosalterados
+        - promessa
+        - licencas2.0-api | 84
