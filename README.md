@@ -8,24 +8,24 @@
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
 ## - **192.168.1.93 - Servidor de Aplicação**
-  ## - **IIS** 
-   ### - __ApiSrc360__
-            <details>
-                <summary>URL</summary>
+##      - **IIS** 
+###         - __ApiSrc360__
+<details>
+    <summary>URL</summary>
 
-                http://192.168.1.93:8090/
-            </details>
-            <details>
-                <summary>Usuário Windows</summary>
+    http://192.168.1.93:8090/
+</details>
+<details>
+    <summary>Usuário Windows</summary>
 
-                userprocess@cbc.ads
-            </details>
-            <details>
-                <summary>Banco</summary>
+    userprocess@cbc.ads
+</details>
+<details>
+    <summary>Banco</summary>
 
-                IP: 192.168.1.16
-                BASE: SRC
-            </details>
+    IP: 192.168.1.16
+    BASE: SRC
+</details>
 
         - __ProcessTasken__
             <details>
