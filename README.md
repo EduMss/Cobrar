@@ -28,12 +28,8 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             <details>
                 <summary>Banco</summary>
 
-                192.168.1.16
-            </details>
-            <details>
-                <summary>Base</summary>
-
-                SRC
+            IP: 192.168.1.16
+            BASE: SRC
             </details>
 
         - ProcessTasken
