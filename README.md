@@ -74,55 +74,55 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 # **Linux**
 - ## **192.168.1.93 - Aplicação**
     - ### __Docker__ 
-        - srcwebdashboard
+        - **srcwebdashboard**
             <details>
                 <summary>URL</summary>
                 
                 192.168.1.93:9000
             </details>
-        - autonegociadordashboard
+        - **autonegociadordashboard**
             <details>
                 <summary>URL</summary>
                 
                 192.168.1.93:8081
             </details>
-        - analyticsapi
+        - **analyticsapi**
             <details>
                 <summary>URL</summary>
                 
                 Não tem
             </details>
-        - srcwebapi
+        - **srcwebapi**
             <details>
                 <summary>URL</summary>
                 
                 192.168.1.93:3000
             </details>
-        - acionamento
+        - **acionamento**
             <details>
                 <summary>URL</summary>
                 
                 Não tem
             </details>
-        - autonegociadorapi
+        - **autonegociadorapi**
             <details>
                 <summary>URL</summary>
                 
                 Não tem
             </details>
-        - acordosalterados
+        - **acordosalterados**
             <details>
                 <summary>URL</summary>
                 
                 Não tem
             </details>
-        - promessa
+        - **promessa**
             <details>
                 <summary>URL</summary>
                 
                 Não tem
             </details>
-        - licencas2.0-api
+        - **licencas2.0-api**
             <details>
                 <summary>URL</summary>
                 
