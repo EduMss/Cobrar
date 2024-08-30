@@ -18,9 +18,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             <details>
                 <summary>URL</summary>
 
-                ```
                 http://192.168.1.93:8090/
-                ```
             </details>
             <details>
                 <summary>Banco</summary>
