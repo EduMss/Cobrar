@@ -1,7 +1,7 @@
 # **Cobrar**
-## 1. [**APIs**](#apis)
-## 2. [**Banco de Dados**](#banco-de-dados)
-## 3. [**Linux**](#linux)
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
 
 
 # **APIs**
