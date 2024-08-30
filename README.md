@@ -8,11 +8,6 @@
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
 - 192.168.1.93 - Servidor de Aplicação
-    - IIS
-        -   Nome API    | PORTA |   IP BANCO   | BASE 
-        -   ApiSrc360   | 8090  | 192.168.1.16 | SRC 
-        - ProcessTasken | 8080  | 192.168.1.16 | SRC
-
     - IIS 
         - ApiSrc360
             <details>
@@ -50,21 +45,76 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             </details>
 
     - Serviços Windows
-        -   Nome Serviço        |   IP BANCO
-        - Tasken Process Scheduler | 192.168.1.16
+        - Tasken Process Scheduler
+            <details>
+                <summary>Banco</summary>
+                
+                IP: 192.168.1.16
+                BASE: SRC
+            </details>
 
 # **Banco de Dados**
 - 192.168.1.16 - Banco de Dados
+        <details>
+            <summary>Bases</summary>
+            
+            SRC
+        </details>
 
 # **Linux**
 - 192.168.1.93 - Aplicação
     - Docker 
-        - srcwebdashboard | 9000
-        - autonegociadordashboard | 8081
+        - srcwebdashboard
+            <details>
+                <summary>URL</summary>
+                
+                192.168.1.93:9000
+            </details>
+        - autonegociadordashboard
+            <details>
+                <summary>URL</summary>
+                
+                192.168.1.93:8081
+            </details>
         - analyticsapi
-        - srcwebapi | 3000
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - srcwebapi
+            <details>
+                <summary>URL</summary>
+                
+                192.168.1.93:3000
+            </details>
         - acionamento
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
         - autonegociadorapi
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
         - acordosalterados
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
         - promessa
-        - licencas2.0-api | 84
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - licencas2.0-api
+            <details>
+                <summary>URL</summary>
+                
+                192.168.1.93:84
+            </details>
