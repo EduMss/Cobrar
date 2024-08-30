@@ -3,7 +3,9 @@
 ### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linux)
 
-</br>
+<br>
+<br>
+<br>
 
 # **APIs**
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
@@ -57,7 +59,8 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 ##### [**Voltar para o início**](#cobrar)
 
-
+<br>
+<br>
 
 # **Banco de Dados**
 - ## **192.168.1.16 - Banco de Dados**
@@ -74,7 +77,8 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 ##### [**Voltar para o início**](#cobrar)
 
-
+<br>
+<br>
 
 # **Linux**
 - ## **192.168.1.93 - Aplicação**
