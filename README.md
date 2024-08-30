@@ -61,6 +61,11 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             
         SRC
     </details>
+    <details>
+        <summary>Usuário Windows</summary>
+
+        userprocess@cbc.ads
+    </details>
 
 # **Linux**
 - 192.168.1.93 - Aplicação
