@@ -441,13 +441,13 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             <summary>URL</summary>
  
             http://192.168.1.81:8053
-        </details>
-        <details>
+         </details>
+         <details>
             <summary>Usuário Windows</summary>
  
             TRC\tasken
-        </details>
-        <details>
+         </details>
+         <details>
             <summary>Banco</summary>
  
             IP: cloud.tasken.com
@@ -457,9 +457,9 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
          <details>
             <summary>URL</summary>
  
-            http://172.16.56.128:8063
+            http://192.168.1.81:8063
         </details>
-        <details>
+         <details>
             <summary>Usuário Windows</summary>
  
             TRC\tasken
@@ -474,7 +474,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
          <details>
              <summary>URL</summary>
      
-             http://172.16.56.128:8083 
+             http://192.168.1.81:8083 
          </details>
          <details>
              <summary>Usuário Windows</summary>
@@ -487,5 +487,208 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
              IP: cloud.tasken.com
          </details>
 
+       - ### __TaskenLicençaBradesco__
+          <details>
+              <summary>URL</summary>
+     
+              https://192.168.1.81:3002
+          </details>   
+          <details>
+              <summary>Usuário Windows</summary>
+     
+              TRC\tasken
+          </details>
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 192.168.1.15
+              Base: SRC
+          </details>
+
+       - ### __TaskenAPI__
+         <details>
+             <summary>URL</summary>
+     
+             https://192.168.1.81:8081
+         </details>
+         <details>
+             <summary>Usuário Windows</summary>
+     
+             TRC\tasken
+         </details>
+         <details>
+             <summary>Banco</summary>
+     
+             IP: 192.168.1.28
+             Base: SRC
+         </details>
+
+       - ### __TaskenLicençaAPI__
+          <details>
+              <summary>URL</summary>
+     
+              https://192.168.1.81:3000
+          </details>
+          <details>
+              <summary>Usuário Windows</summary>
+     
+              TRC\tasken
+          </details>
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 192.168.1.4
+              Base: SRC
+          </details>
+
+    - ## **Serviços Windows**
+       - ### __Tasken Process - Base 28__
+          <details>
+              <summary>Banco</summary>
+
+              IP: 192.168.1.28
+              Base: SRC
+          </details>
+          <details>
+              <summary>Usuário Windows</summary>
+
+              master
+          </details>
+
+       - ### __Tasken Process - Base 4__
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 192.168.1.4
+              Base: SRC
+          </details>
+          <details>
+              <summary>Usuário Windows</summary>
+
+              master
+          </details>
+
+       - ### __Tasken Process - Estácio__
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 192.168.1.14
+              Base: SRC
+          </details>
+          <details>
+              <summary>Usuário Windows</summary>
+     
+              master
+          </details>
+
+       - ### __Tasken Process Bradesco__
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 192.168.1.15
+              Base: SRC
+          </details>
+           <details>
+              <summary>Usuário Windows</summary>
+     
+              master
+          </details>
+
+##### [**Voltar para o início**](#trc)
+
+<br>
+
+# **Banco de Dados**
+- ## **192.168.1.28 - Banco de Dados**
+   <details>
+       <summary>Bases</summary>
+
+       SRC
+       SmartwayProcess_Novo
+   </details>
+
+- ## **192.168.1.4 | CEF / CAIXA**
+   <details>
+       <summary>Bases</summary>
+
+       SRC
+       TaskenProcess
+   </details>
+
+- ## **192.168.1.15 | Bradesco**
+   <details>
+       <summary>Bases</summary>
+       
+       SRC
+       TaskenProcess
+   </details>
+
+- ## **192.168.1.14 | Estácio**
+    <details>
+       <summary>Bases</summary>
+       
+       SRC
+       TaskenProcess
+   </details>
+
+##### [**Voltar para o início**](#trc)
+
+  # **Linux**
+  - ## **192.168.1.42  - Aplicação**
+     - ### __Docker__
+        - **srcwebdashboard**
+           <details>
+               <summary>URL</summary>
+
+               192.168.1.42:9000
+           </details>
+        - **autonegociadordashboard**
+           <details>
+               <summary>URL</summary>
+      
+               192.168.1.42:8080|443
+           </details>
+        - **licença**
+           <details>
+               <summary>URL</summary>
+      
+               192.168.1.42:84
+           </details>
+        - **srcwebapi**
+           <details>
+               <summary>URL</summary>
+      
+               192.168.1.42:3000
+           </details>
+        - **analyticsapi**
+           <details>
+               <summary>URL</summary>
+                
+               Não tem
+           </details>  
+        - **acionamento**
+           <details>
+               <summary>URL</summary>
+                
+               Não tem
+           </details>
+        - **acordosalterados**
+           <details>
+               <summary>URL</summary>
+                
+               Não tem
+           </details>
+        - **autonegociadorapi**
+           <details>
+               <summary>URL</summary>
+                
+               Não tem
+           </details>
+
+
+###### [**Voltar para o início**](#trc)
+          
         
+          
+          
 
