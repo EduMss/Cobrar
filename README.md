@@ -1,4 +1,4 @@
-# **Cobrar**
+![image](https://github.com/user-attachments/assets/c508c658-2d38-4f98-977b-33fa992ad201)# **Cobrar**
 ### 1. [**APIs**](#apis)
 ### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linux)
@@ -136,6 +136,8 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             
 
 ###### [**Voltar para o início**](#cobrar)
+
+<br>
 
 # **TRC**
 ### 1. [**APIs**](#apis)
@@ -685,8 +687,365 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                Não tem
            </details>
 
-
 ###### [**Voltar para o início**](#trc)
+
+<br>
+
+# **ServicePremium**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **192.168.3.65 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+ 
+                http://192.168.3.65:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                src.tasken  
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: SRVPROCESSSRC\MSSQLSERVER01
+                Base: SRC  
+            </details>
+
+        - ### __ApiTaskenBot__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.3.65:8091
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                src.tasken
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: SRVPROCESSSRC\MSSQLSERVER01
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenHomologa__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.3.65:8097
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                src.tasken
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: SRVPROCESSSRC\MSSQLSERVER01
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenLicecas__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.3.65:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                src.tasken
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: SRVPROCESSSRC\MSSQLSERVER01
+                Base: SRC
+            </details>
+
+        - ### __DashboardLicencas__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.3.65:8087
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                src.tasken
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+
+        - ### __WSconsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.3.65:9091
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                src.tasken
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 189.126.42.100 (Inativo)
+                Base: SRC
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcess__
+            <details>
+                <summary>Banco</summary>
+                
+                IP: SRVPROCESSSRC\MSSQLSERVER01
+                BASE: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                Master
+            </details>
+
+##### [**Voltar para o início**](#servicepremium)
+
+<br>
+
+# **Banco de Dados**
+- ## **SRVPROCESSSRC\MSSQLSERVER01 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+- ## **192.168.3.65 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#servicepremium)
+
+<br>
+
+# **EmDia**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **172.30.130.198 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiBradescoHomologacaoBacen__
+            <details>
+                <summary>URL</summary>
+ 
+                http://172.30.130.198:8198
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.102
+                Base: SRC
+            </details>
+
+        - ### __APISRC360 Outros Credores__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.30.130.198:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __apitasken_hmg__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.30.130.198:8080
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __apitaskenbradesco__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.30.130.198:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.102
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenBradescoHMG__
+            <details>
+                <summary>URL</summary>
+     
+                http:172.30.130.198:8094
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.102
+                Base: SRC
+            </details>
+
+        - ### __apitaskenhomologacao__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.30.130.198:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __apitaskensrc__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.30.130.198:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __TaskenApi_Email_Bradesco__
+            <details>
+                <summary>URL</summary>
+     
+                 http://172.30.130.198:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@spliera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __TaskenApi_Email_Itau__
+            <details>
+                <summary>URL</summary>
+     
+                 http://172.30.130.198:8091
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@spliera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __TaskenApi_Email_OutrosCredores__
+            <details>
+                <summary>URL</summary>
+     
+                 http://172.30.130.198:8092
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __APISRC360 Outros Credores Homologacao__
+            <details>
+                <summary>URL</summary>
+     
+                 http://172.30.130.198:8085
+            </details>
+
           
         
           
