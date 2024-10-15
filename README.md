@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c508c658-2d38-4f98-977b-33fa992ad201)# **Cobrar**
+# **Cobrar**
 ### 1. [**APIs**](#apis)
 ### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linux)
@@ -1043,8 +1043,349 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             <details>
                 <summary>URL</summary>
      
-                 http://172.30.130.198:8085
+                 http://172.30.130.198:8083
             </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+        - ### __WSCONSUMO__
+            <details>
+                <summary>URL</summary>
+     
+                 http://172.30.130.198:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SRC
+            </details>
+
+- ## **10.198.66.25 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __AApiSrc360 CallCenter__
+            <details>
+                <summary>URL</summary>
+ 
+                http://10.198.66.25:8020
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360 Callcenter Homologacao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8021
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                
+            </details>
+
+        - ### __ApiSrc360 Jurificao homologacao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8022
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360 Manutencao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8087
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@spliera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360 Return__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken Callcenter__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken Manutencao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken return__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8091
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken Return Cach01__
+            <details>
+                <summary>URL</summary>
+                
+                http://10.198.66.25:8097
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken Return Cach01 Homologa__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8098
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken Return Juridico__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8092
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __APITermos__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __APITermos Manutencao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8088
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+        - ### __Wsconsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+          - ### __Wsconsumo Manutencao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.198.66.25:8095
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+
+          - ### __TaskenProcess Callcenter__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8080
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+          - ### __TaskenProcess Manutencao__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8083
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+            
+
+            
+            
 
           
         
