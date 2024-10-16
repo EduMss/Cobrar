@@ -1328,7 +1328,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 Base: SRC
             </details>
 
-          - ### __Wsconsumo Manutencao__
+        - ### __Wsconsumo Manutencao__
             <details>
                 <summary>URL</summary>
      
@@ -1346,7 +1346,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 Base: SRC
             </details>
 
-          - ### __TaskenProcess Callcenter__
+         - ### __TaskenProcess Callcenter__
               <details>
                   <summary>URL</summary>
          
@@ -1364,7 +1364,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                   Base: SRC
               </details>
 
-          - ### __TaskenProcess Manutencao__
+         - ### __TaskenProcess Manutencao__
               <details>
                   <summary>URL</summary>
          
@@ -1381,6 +1381,353 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                   IP: 172.30.130.8
                   Base: SRC
               </details>
+
+         - ### __TaskenProcess Return__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8084
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+         - ### __TaskenProcess Return Cach01__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8096
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+         - ### __TaskenProcess Return Juridico__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8070
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+         - ### __Wsconsumo__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8090
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+         - ### __Wsconsumo Manutencao__
+              <details>
+                  <summary>URL</summary>
+         
+                  http://10.198.66.25:8095
+              </details>
+              <details>
+                  <summary>Usuário Windows</summary>
+         
+                  tasken@splidera
+              </details>
+              <details>
+                  <summary>Banco</summary>
+         
+                  IP: 172.30.130.8
+                  Base: SRC
+              </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcessSchedulerService Callcenter__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+        - ### __TaskenProcessSchedulerService Outros Credores__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+        - ### __TaskenProcessSchedulerService Manutencao__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+        - ### __TaskenProcessSchedulerService Return__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+        - ### __TaskenProcessSchedulerService Cash01__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+        - ### __TaskenProcessSchedulerService Return Juridico__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.30.130.8
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+- ## **10.7.0.44 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __APISRC360__
+            <details>
+                <summary>URL</summary>
+
+                http://10.7.0.44:8090
+            </details>
+            <details>
+                <summary>Usuário windows</summary>
+
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                db-src.emdia.com.br , 9054
+            </details>
+
+        - ### __APITASKEN__
+            <details>
+                <summary>URL</summary>
+
+                http://10.7.0.44:8091
+            </details>
+            <details>
+                <summary>Usuário windows</summary>
+
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                db-src.emdia.com.br , 9054
+            </details>
+
+        - ### __TaskenProcess__
+            <details>
+                <summary>URL</summary>
+
+                http://10.7.0.44:8080
+            </details>
+            <details>
+                <summary>Usuário windows</summary>
+
+                tasken@splidera
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                db-src.emdia.com.br , 9054
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcessSchedulerService__
+            <details>
+                <summary>Banco</summary>
+ 
+                db-src.emdia.com.br , 9054
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                tasken@splidera
+            </details>
+
+- ## **172.30.130.'75 - Servidor de Aplicação**
+    - ## **IIS**
+        - ## **Serviços Windows**
+            - ### __TaskenProcessSchedulerService__
+                <details>
+                    <summary>Banco</summary>
+ 
+                    IP: 10.198.66.25
+                </details>
+                <details>
+                   <summary>Usuário Windows</summary>
+ 
+                   tasken@splidera
+               </details>
+
+##### [**Voltar para o início**](#emdia)
+
+<br>
+
+# **Banco de Dados**
+- ## **172.30.130.6 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+- ## **172.30.130.8 | CALLCENTER**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+- ## **10.7.0.223 | Servidir na AWS**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+ ##### [**Voltar para o início**](#emdia)
+
+ <br>
+
+# **Linux**
+- ## **172.30.131.32 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                172.30.131.32:80
+            </details>
+        - **autonegociadordashboard**
+            <details>
+                <summary>URL</summary>
+                
+                172.30.131.32:8080 | 443 
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                172.30.131.32:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **acordosalterados**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licença**
+            <details>
+                <summary>URL</summary>
+                
+                172.30.131.32:84
+            </details>
+
+        - **api-rpa-santander-pic**
+            <details>
+                <summary>URL</summary>
+     
+                172.30.131.32:8081
+            </details>
+
+            
 
             
 
