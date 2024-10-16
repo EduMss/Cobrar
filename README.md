@@ -1807,6 +1807,276 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 ##### [**Voltar para o início**](#luze)
 
+<br>
+
+# **Izzi**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **192.168.0.209 - Servidor de Aplicação**
+    - ## **IIS** 
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+
+                http://192.168.0.209:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+
+        - ### __TaskenLicencaApi__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.209:3000
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+
+        - ### __ApiPanamericanoTeste__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.209:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.10.54
+                Base: SRC_DEV
+            </details>
+
+        - ### __ApiTaskenhmg__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.209:8095
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenOlos__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.209:8080
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: cloud.tasken.com
+                Base: IntranetRCP
+            </details>
+
+        - ### __ApiTaskenBot__
+            <details>
+                <summary>URL</summary>
+     
+                 http://192.168.0.209:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+
+        - ### __ConsumoWS__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.209:2525
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: cloud.tasken.com
+                Base: IntranetRCP
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __Tasken Process - Base 210__
+            <details>
+                <summary>Banco</summary>
+
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                izzicobranca.com.for\srcservicos
+            </details>
+
+        - ### __Tasken Process - HMG__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.210
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                izzicobranca.com.for\srcservicos
+            </details>
+
+
+##### [**Voltar para o início**](#izzi)
+
+<br>
+
+# **Banco de Dados**
+- ## **192.168.0.210 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+- ## **192.168.0.209 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#izzi)
+
+<br>
+
+# **Linux**
+- ## **192.168.1.93 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:8080
+            </details>
+        - **autonegociadordashboard**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:80|443
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **analyticsapihomologação**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **acordosalterados**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licenca**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:84
+            </details>
+        - **srcwebdashboardhomologacao**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:9000
+            </details>
+        - **srcwebapihomologação**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.60:5000
+            </details>
+
+##### [**Voltar para o início**](#izzi)
+
+<br>
 
             
 
