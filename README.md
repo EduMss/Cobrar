@@ -1727,6 +1727,87 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 172.30.131.32:8081
             </details>
 
+###### [**Voltar para o início**](#emdia)
+
+<br>
+
+# **Luze**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **192.168.0.11 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+
+                http://192.168.0.11:8084
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                grupo.luze\marcelo.mamede
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 192.168.0.11
+                Base: SRC
+            </details>
+
+       - ### __TaskenLicença__
+           <details>
+               <summary>URL</summary>
+     
+               http://192.168.0.11:8082
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+     
+               grupo.luze\marcelo.mamede
+           </details>
+           <details>
+               <summary>Banco</summary>
+     
+               IP: 192.168.0.11,1433
+               Base: SRC
+           </details>
+
+    - ## **Serviços Windows**
+       - ### __Process.Luze__
+           <details>
+               <summary>Banco</summary>
+                
+               IP: 192.168.0.11
+               BASE: TaskenProcess
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+
+               grupo.luze\marcelo.mamede
+           </details>
+
+##### [**Voltar para o início**](#luze)
+
+<br>
+
+# **Banco de Dados**
+- ## **192.168.0.11 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#luze)
+
+
             
 
             
