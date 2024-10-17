@@ -2078,6 +2078,152 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+# **Protea**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.20.30.2 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+ 
+                http://10.20.30.2:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                anydesk: 653 057 175
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP:10.20.30.2
+                Base: SRC_AMIGAVEL
+            </details>
+
+        - ### __WsConsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.20.30.2:2095
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                anydesk: 653 057 175
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: cloud.tasken.com
+                Base: IntranetRCP
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __Process.protea.local__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.20.30.2
+                Base: SRC_AMIGAVEL
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                anydesk: 653 057 175
+            </details>
+
+##### [**Voltar para o início**](#protea)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.20.30.2 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC_AMIGAVEL
+    </details>
+
+##### [**Voltar para o início**](#protea)
+
+<br>
+
+# **Tahto**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.115.64.4 - Servidor de Aplicação**
+    - ## **IIS**
+       - ### __ApiSrc360__
+           <details>
+               <summary>URL</summary>
+ 
+               http://10.115.64.4:8082
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+ 
+               TR798895
+           </details>
+           <details>
+               <summary>Banco</summary>
+ 
+               IP: 10.115.64.36
+               Base: SRC
+           </details>
+
+      - ### __ApiTasken__
+          <details>
+              <summary>URL</summary>
+     
+              http://10.115.64.4:8081
+          </details>
+          <details>
+              <summary>Usuário Windows</summary>
+     
+              TR798895
+          </details>
+          <details>
+              <summary>Banco</summary>
+     
+              IP: 10.115.64.36
+              Base: SRC
+          </details>
+
+    - ## **Serviços Windows**
+       - ### __Process__
+           <details>
+               <summary>Banco</summary>
+ 
+               IP: 10.115.64.36
+               Base: SRC
+           </details>
+           <details>
+              <summary>Usuário Windows</summary>
+     
+              TR798895
+          </details>
+           
+
+
+
+
+
+
             
 
             
