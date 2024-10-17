@@ -2156,6 +2156,68 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+# **Linux**
+- ## **10.20.30.6 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                10.20.30.6:80
+            </details>
+        - **autonegociadordashboard**
+            <details>
+                <summary>URL</summary>
+                
+                10.20.30.6:8080 | 443
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                10.20.30.6:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **acordosalterados**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licencas2.0-ap**
+            <details>
+                <summary>URL</summary>
+                
+                10.20.30.6:84
+            </details>
+
+##### [**Voltar para o início**](#protea)
+
+<br>
+
 # **Tahto**
 ### 1. [**APIs**](#apis)
 ### 2. [**Banco de Dados**](#banco-de-dados)
@@ -2217,6 +2279,26 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
      
               TR798895
           </details>
+
+##### [**Voltar para o início**](#tahto)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.115.64.36 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#tahto)
+
+<br>
+
+
+
+          
            
 
 
