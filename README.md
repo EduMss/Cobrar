@@ -2296,6 +2296,534 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+# **RedeBrasil**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **172.16.16.185 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiSrc360__
+            <details>
+                <summary>URL</summary>
+ 
+                http://172.16.16.185:3000
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360Base1__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3001
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360HomologaRiachuelo__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3002
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiSRC360ItaúAtlas__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3003
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __APISRC360Base4__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3004
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __APISRC360homologaItaú__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3005
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360_1__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3006
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360_Base5__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3007
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                 IP: 172.16.16.131
+                 Base: SRC
+            </details>
+
+        - ### __ApuSrc360_Base1__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3008
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __API360BRADHMG__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3009
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __API360BRAD__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.185:3010
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+- ## **172.16.16.120 - Servidor de Aplicação**
+    - ## **IIS** 
+        - ### __ApiLicencaTasken131__
+            <details>
+                <summary>URL</summary>
+ 
+                http://172.16.16.120:3000
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 172.16.16.131
+                Base:  SRC
+            </details>
+
+        - ### __ApiTaskeLicenca_16.128_Base4__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:3001
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base:  SRC
+            </details>
+
+        - ### __ApiTaskenLicenca_16.128_Base1__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:3002
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.138
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenLicenca_BaseHomologação__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:3003
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.137 (Banco desativado)
+                Base:  SRC
+            </details>
+
+        - ### __TaskenApi_Base5__
+            <details>
+               <summary>URL</summary>
+     
+               http://172.16.16.120:8010
+            </details>
+            <details>
+               <summary>Usuário Windows</summary>
+     
+               redebrasil\sistemasrc
+            </details>
+            <details>
+               <summary>Banco</summary>
+     
+               IP: 172.16.16.138
+               Base: SRC
+            </details>
+
+        - ### __TaskenApi_Base4__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8020
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131\PJ
+                Base: SRC
+            </details>
+
+        - ### __TaskenProcess_16.81-inter_Base7__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8030
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\inter
+                Base: SRC
+            </details>
+
+        - ### __APISRC360 - Base 7 - Banco Inter__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8040
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.138
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc30_Base3(16.16.185)
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8098
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\inter
+                Base:  SRC
+            </details>
+
+        - ### __APITasken_16.128_Base2__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken_16.81_Base6__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8061
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\RCH
+                Base:  SRC
+            </details>
+
+        - ### __ApiTasken_Email_Base4__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8092
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131\\PJ
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken_Email_Base5__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8093
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.138
+                Banco: SRC
+            </details>
+
+        - ### __APiTasken_Homologacao_56.128_Base2__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8086
+            </details>
+            <details>
+                <summary>Usuário WIndows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\RCH
+                Base: SRC
+            </details>
+
+        - ### __ApiTermos_Base6__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8062
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                
+            </details>
+
+        - ### __WSconsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8094
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.10.54
+                Base: SRC_DEV
+            </details>
+
+        - ### __WSConsumo - Inter__
+            <details>
+                <summary>URL</summary>
+     
+                http://172.16.16.120:8041
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.10.54
+                Base: SRC_DEV
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __Tasken Process Scheduler__
+
+        
+
+        
+
+      
+
+            
+
 
 
           
