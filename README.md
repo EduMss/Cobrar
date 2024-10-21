@@ -2616,24 +2616,6 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 Base: SRC
             </details>
 
-        - ### __TaskenProcess_16.81-inter_Base7__
-            <details>
-                <summary>URL</summary>
-     
-                http://172.16.16.120:8030
-            </details>
-            <details>
-                <summary>Usuário Windows</summary>
-     
-                redebrasil\sistemasrc
-            </details>
-            <details>
-                <summary>Banco</summary>
-     
-                IP: 172.16.16.81\inter
-                Base: SRC
-            </details>
-
         - ### __APISRC360 - Base 7 - Banco Inter__
             <details>
                 <summary>URL</summary>
@@ -2814,7 +2796,406 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
             </details>
 
     - ## **Serviços Windows**
-        - ### __Tasken Process Scheduler__
+        - ### __TaskenProcess_16.81-inter_Base7__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\inter
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+            
+        - ### __TaskenProcess_16.131_Base2__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SmartwayProcess_Novo
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+
+        - ### __TaskenProcess_16.131-PJ_Base4__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.131\pj
+                Base: TaskenProcess
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+
+        - ### __TaskenProcess_16.81-RCH_Base6__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.16.16.81\RCH
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                redebrasil\sistemasrc
+            </details>
+
+        - ### __TaskenProcess_SRC-SP_Base5__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: SRVSRC5
+                Base: Smartwayprocess_novo
+            </details>
+
+##### [**Voltar para o início**](#redebrasil)
+
+<br>
+
+# **Banco de Dados**
+- ## **172.16.16.199 | RECOVERY/ NATURA/ ITAU PF/ IBI (BASE1)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.131 | ITAU ACC / Pernambucanas (BASE2)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.56.243 | CEF/ BRADESCO COMERCIAL/SICOOB (BASE3)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.131\PJ | ITAU PJ (BASE4)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **SRC-SP (172.16.16.140) | (BASE 5 CANOAS)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.138 | (BASE 5 SP)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.137 | SRC (BASE DE HOMOLOGAÇÃO)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.81\RCH | RIACHUELO (BASE 6)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+- ## **172.16.16.81\inter | (BASE 7)**
+    <details>
+        <Summary>Bases</Summary>
+
+        Base: SRC
+    </details>
+
+##### [**Voltar para o início**](#redebrasil)
+
+<br>
+
+# **Melillo**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **192.168.0.199  - Servidor de Aplicação**
+    - ## **IIS**
+       - ### __ApiSrc360__
+           <details>
+               <summary>URL</summary>
+ 
+               http://192.168.0.199:8084
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+ 
+               SRV01\administrator
+           </details>
+           <details>
+               <summary>Banco</summary>
+ 
+               IP: 192.168.0.199
+               Base: SRC
+           </details>
+
+       - ### __ApiLicenca__
+           <details>
+               <summary>URL</summary>
+     
+               http://192.168.0.199:3000
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+     
+               SRV01\administrator
+           </details>
+           <details>
+               <summary>Banco</summary>
+     
+               IP: 192.168.0.199
+               Base: SRC
+           </details>
+
+       - ### __ApiTasken__
+           <details>
+               <summary>URL</summary>
+     
+               http://192.168.0.199:8083
+           </details>
+           <details>
+               <summary>Usuário Windows</summary>
+     
+               SRV01\administrator
+           </details>
+           <details>
+               <summary>Banco</summary>
+     
+               IP: 192.168.0.199
+               Base: SRC
+           </details>
+
+        - ### __ApiTasken_Email__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.199:50371
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                SRV01\administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.199
+                Base: SRC 
+            </details>
+
+        - ### __ApiTasken_Termo__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.0.199:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                SRV01\administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.0.199
+                Base: SRC
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcess__
+            <details>
+                <summary>Banco</summary>
+                
+                IP: 192.168.0.199
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                SRV01\administrator
+            </details>
+
+##### [**Voltar para o início**](#melillo)
+
+<br>
+
+# **Banco de Dados**
+- ## **192.168.0.199 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#melillo)
+
+<br>
+
+# **Linux**
+- ## **192.168.1.93 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.90:80
+            </details>
+        - **autonegociadordashboard**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.90:8080 | 443
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.90:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **acordosalterados**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licencas2.0-api**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.90:84
+            </details>
+        - **digesto-webhook**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.0.90:8443
+            </details>
+
+##### [**Voltar para o início**](#melillo)
+
+<br>
+
+# **Melillo**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **192.168.10.16 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiSRC360__
+            <details>
+                <summary>URL</summary>
+ 
+                http://192.168.10.16:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 192.168.10.17
+                Base: SRC
+            </details>
+
+        - ### __ApiSRC360Homologa__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.10.16:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.10.17
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.10.16:8015
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.10.17
+                Base: SRC 
+            </details>
+
+          
+
 
         
 
