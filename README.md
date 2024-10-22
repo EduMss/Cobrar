@@ -3128,7 +3128,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
-# **Melillo**
+# **Validu**
 ### 1. [**APIs**](#apis)
 ### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linux)
@@ -3194,7 +3194,612 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 Base: SRC 
             </details>
 
-          
+        - ### __ApiTaskenHomologa__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.10.16:8016
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.10.17
+                Base: SRC 
+            </details>
+
+        - ### __ApiTermos__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.10.16:8083
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 192.168.10.17
+                Base: SRC 
+            </details>
+
+        - ### __consumo.servico.webservice__
+            <details>
+                <summary>URL</summary>
+     
+                http://192.168.10.16:8010
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                administrator
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: clound.tasken.com
+                Base: IntranetRCP
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __Process Validu__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 192.168.10.17
+                Base: SRC 
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                administrator
+            </details>
+
+##### [**Voltar para o início**](#validu)
+
+<br>
+
+# **Banco de Dados**
+- ## **192.168.10.17 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#validu)
+
+<br>
+
+# **Linux**
+- ## **192.168.10.18 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.10.18:80
+            </details>
+        - **autonegociadordashboard-HOMOLOGACAO**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.10.18:8080
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.10.18:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licencas2.0-api**
+            <details>
+                <summary>URL</summary>
+                
+                192.168.10.18:84
+            </details>
+        - **nginx-proxy**
+            <details>
+                <summary>URL</summary>
+     
+                192.168.10.18:443
+            </details>
+        - **autonegociadordashboard-PAKETA**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-VUON**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-PERNAMBUCANAS**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-TENDA**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-CREDPAGO**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-SEMEAR**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-SUPERSIM**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadordashboard-APRESENTACAO**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **analyticsapi-HOMOLOGACAO**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+
+##### [**Voltar para o início**](#validu)
+
+<br>
+
+# **MLGomes**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.10.5.213 - Servidor de Aplicação**
+    - ## **IIS** 
+        - ### __ApiSrc360__
+            <details>
+                <summary>URL</summary>
+
+                http://10.10.5.213:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+
+        - ### __ApiServicos360__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8087
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+        
+        - ### __ApiSrc360Homol__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8083
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+            
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenHomolog__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8085
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+
+        - ### __TaskenLicencaApi__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:3000
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+
+        - ### __ApiNotifier__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8086
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+
+        - ### __WsConsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.10.5.213:8084
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                frocha@tasken.com
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: cloud.tasken.com
+                Base: IntranetRCP
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcess__
+            <details>
+                <summary>Banco</summary>
+
+                IP: 10.10.5.219
+                Base: SRC
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                frocha@tasken.com
+            </details>
+
+        - ### __ProcessHomolog__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.30.130.6
+                Base: SmartwayProcess_Novo
+            </details>
+
+##### [**Voltar para o início**](#mlgomes)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.10.5.219 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC
+    </details>
+
+- ## **10.10.5.250 - Servidor de banco espelho**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+- ## **10.10.5.12 - Servidor de homologação**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#mlgomes)
+
+<br>
+
+# **Atento**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.115.68.162 - Servidor de Aplicação**
+    - ## **IIS** 
+        - ### __ApiTermo__
+            <details>
+                <summary>URL</summary>
+ 
+                http://10.115.68.162:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.10.10.17
+                Base: SRC_DEV
+            </details>
+
+        - ### __ApiTermoHMG__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:8091
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+
+        - ### __APITASKEN_VIVO__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO
+            </details>
+
+        - ### __APITASKEN_VIVO_HOMOLOG3__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO
+            </details>
+
+        - ### __APITASKEN_VIVO_HOMOLOGA__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO 
+            </details>
+
+        - ### __APITASKEN_VIVO_HOMOLOGA2__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.158.6.21
+                Base: SRC
+            </details>
+
+        - ### __APITASKEN_VIVO_NOVO__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO 
+            </details>
+
+        - ### __APITASKEN_VIVO_ATIVO__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:443
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.158.6.21
+                Base: SRC
+            </details>
+
+        - ### __APITASKEN_VIVO_ATIVO_NOVO__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:443
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.158.6.21
+                Base: SRC
+            </details>
+
+        - ### __ApiTaskenVivoCyber__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.115.68.162:80
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.158.6.21
+                Base: SRC
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __TaskenProcessVivo__
+            <details>
+                <summary>Banco</summary>
+
+                IP: 10.189.1.235
+                Base: SmartwayProcess_Atento
+            </details>    
+
 
 
         
