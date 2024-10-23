@@ -3600,6 +3600,68 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+# **Linux**
+- ## **10.250.0.23 - Aplicação**
+    - ### __Docker__ 
+        - **srcwebdashboard**
+            <details>
+                <summary>URL</summary>
+                
+                10.250.0.23:8081
+            </details>
+        - **autonegociadordashboard**
+            <details>
+                <summary>URL</summary>
+                
+                10.250.0.23:80 | 443
+            </details>
+        - **analyticsapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **srcwebapi**
+            <details>
+                <summary>URL</summary>
+                
+                10.250.0.23:3000
+            </details>
+        - **acionamento**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **autonegociadorapi**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **acordosalterados**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **promessa**
+            <details>
+                <summary>URL</summary>
+                
+                Não tem
+            </details>
+        - **licencas2.0-api**
+            <details>
+                <summary>URL</summary>
+                
+                10.250.0.23:84
+            </details>
+
+##### [**Voltar para o início**](#mlgomes)
+
+<br>
+
 # **Atento**
 ### 1. [**APIs**](#apis)
 ### 2. [**Banco de Dados**](#banco-de-dados)
@@ -3798,7 +3860,191 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
                 IP: 10.189.1.235
                 Base: SmartwayProcess_Atento
-            </details>    
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                Usuário da atento
+            </details>
+
+        - ### __TaskenProcessSiteVivoAtivo__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.158.6.21
+                Base: SmartwayProcess_Atento
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+
+        - ### __ServicoLocal_HOMOLOGA__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+
+        - ### __ServicoLocal_homologa2__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.189.1.235
+                Base: SRC_RECEPTIVO
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                Usuário da atento
+            </details>
+
+##### [**Voltar para o início**](#atento)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.189.1.235 - Banco Vivo Receptivo**
+    <details>
+        <summary>Bases</summary>
+            
+        SRC_RECEPTIVO
+    </details>
+
+- ## **10.158.6.21 - Banco Vivo Ativo**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+- ## **10.158.2.116,1435 - Porta: 1435 - Banco Sicoob**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+    </details>
+
+##### [**Voltar para o início**](#atento)
+
+<br>
+
+# **CRC**
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
+### 3. [**Linux**](#linux)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.50.16.47 - Servidor de Aplicação**
+    - ## **IIS** 
+        - ### __ApiSrc360__
+            <details>
+                <summary>URL</summary>
+ 
+                http://10.50.16.47:8044
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken - SenderEmail - Base39__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8040
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39
+                Base: SRC6
+            </details>
+
+        - ### __ApiTasken - SenderEmail - Homologacao__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8041
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.34
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360 - Homologa__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8045
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken - SRC6__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8057
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC6
+            </details>
+
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+     
+                
+            </details>
+
 
 
 
