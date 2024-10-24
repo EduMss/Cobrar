@@ -1,12 +1,7 @@
 # **Índice**
-1. [Cobrar](#cobrar)
-   - [APIs](#apis-cobrar)
-   - [Banco de Dados](#banco-de-dados-cobrar)
-   - [Linux](#linux-cobrar)
-2. [TRC](#trc)
-   - [APIs](#apis-trc)
-   - [Banco de Dados](#banco-de-dados-trc)
-   - [Linux](#linux-trc)
+### 1. [Cobrar](#cobrar)
+
+### 2. [**TRC**](#trc)
 
 
 
