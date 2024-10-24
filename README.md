@@ -3,6 +3,30 @@
 
 ### 2. [**TRC**](#trc)
 
+### 3. [**ServicePremium**](#servicepremium)
+
+### 4. [**EmDia**](#emdia)
+
+### 5. [**Luze**](#luze)
+
+### 6. [**Izzi**](#izzi)
+
+### 7. [**Protea**](#protea)
+
+### 8. [**Tahto**](#tahto)
+
+### 9. [**RedeBrasil**](#redebrasil)
+
+### 10. [**Melillo**](#melillo)
+
+### 11. [**Validu**](#validu)
+
+### 12. [**MLGomes**](#mlgomes)
+
+### 13. [**Atento**](#atento)
+
+### 14. [**CRC**](#crc)
+
 
 
 
@@ -3948,9 +3972,9 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 <br>
 
 # **CRC**
-### 1. [**APIs**](#apis)
-### 2. [**Banco de Dados**](#banco-de-dados)
-### 3. [**Linux**](#linux)
+### 1. [**APIs**](#apis-crc-fortaleza)
+### 2. [**Banco de Dados**](#banco-de-dados-crc-fortaleza)
+### 3. [**Linux**](#linux-crc-fortaleza)
 
 <br>
 
@@ -4507,7 +4531,20 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 centralrc\rcp
             </details>
 
-##### [**Voltar para o início**](#crc)
+##### [**Voltar para o início**](#crc-fortaleza)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.50.16.139 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+        TaskenProcess
+    </details>
+
+##### [**Voltar para o início**](#crc-fortaleza)
 
 <br>
 
@@ -4619,6 +4656,25 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 IP: 172.25.51.25
                 Base: TaskenProcess
             </details>
+
+##### [**Voltar para o início**](#crc-fortaleza)
+
+<br>
+
+# **Banco de Dados**
+- ## **10.50.16.246 - Banco de Dados**
+    <details>
+        <summary>Bases</summary>
+
+        SRC
+        TaskenProcess
+    </details>
+
+##### [**Voltar para o início**](#crc-fortaleza)
+
+<br>
+
+            
 
 
 
