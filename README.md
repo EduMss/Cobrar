@@ -4674,6 +4674,77 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.50.16.88 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiSrc360__
+            <details>
+                <summary>URL</summary>
+
+                http://10.50.16.88:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                .\userprocess
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.50.16.89
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.88:8081
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                .\userprocess
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.89
+                Base: SRC_CLARO
+            </details>
+
+    - ## **Serviço Windows**
+        - ### __TaskenProcess__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.50.16.89
+                Base: SRC_CLARO
+                Base: TaskenProcess_CLARO
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                .\userprocess
+            </details>
+
+        - ### __TaskenProcessNovo__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.89
+                Base: SRC_CLARO
+                Base: TaskenProcess_CLARO
+            </details>
+
+##### [**Voltar para o início**](#crc-fortaleza)
+
+<br>
+
+
+
             
 
 
