@@ -1,11 +1,11 @@
 # **Cobrar**
-### 1. [**APIs**](#apis)
+### 1. [**APIs**](#apiscobrar)
 ### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linux)
 
 <br>
 
-# **APIs**
+# **APIs Cobrar**
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
 - ## **192.168.1.93 - Servidor de Aplicação**
@@ -140,8 +140,8 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 <br>
 
 # **TRC**
-### 1. [**APIs**](#apistrc)
-### 2. [**Banco de Dados**](#banco-de-dadostrc)
+### 1. [**APIs**](#apis)
+### 2. [**Banco de Dados**](#banco-de-dados)
 ### 3. [**Linux**](#linuxtrc)
 
 <br>
