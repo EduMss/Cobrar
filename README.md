@@ -1,7 +1,7 @@
 # **Cobrar**
 ### 1. [**APIs**](#apis-cobrar)
-### 2. [**Banco de Dados**](#banco-de-dados_cobrar)
-### 3. [**Linux**](#linux)
+### 2. [**Banco de Dados**](#banco-de-dados-cobrar)
+### 3. [**Linux**](#linux-cobrar)
 
 <br>
 
@@ -64,7 +64,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
-# **Banco de Dados**
+# **Banco de Dados Cobrar**
 - ## **192.168.1.16 - Banco de Dados**
     <details>
         <summary>Bases</summary>
@@ -76,7 +76,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
-# **Linux**
+# **Linux Cobrar**
 - ## **192.168.1.93 - Aplicação**
     - ### __Docker__ 
         - **srcwebdashboard**
@@ -140,13 +140,13 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 <br>
 
 # **TRC**
-### 1. [**APIs**](#apis)
-### 2. [**Banco de Dados**](#banco-de-dados)
-### 3. [**Linux**](#linuxtrc)
+### 1. [**APIs**](#apis-trc)
+### 2. [**Banco de Dados**](#banco-de-dados-trc)
+### 3. [**Linux**](#linux-trc)
 
 <br>
 
-# **APIs**
+# **APIs TRC**
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
 - ## **192.168.1.81  - Servidor de Aplicação**
@@ -600,7 +600,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
-# **Banco de Dados**
+# **Banco de Dados TRC**
 - ## **192.168.1.28 - Banco de Dados**
    <details>
        <summary>Bases</summary>
@@ -635,7 +635,7 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 ##### [**Voltar para o início**](#trc)
 
-  # **Linux**
+  # **Linux TRC**
   - ## **192.168.1.42  - Aplicação**
      - ### __Docker__
         - **srcwebdashboard**
