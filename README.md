@@ -3943,6 +3943,9 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
 
 <br>
 
+
+# **CRC Fortaleza**
+
 # **APIs**
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
@@ -4038,13 +4041,543 @@ Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo execut
                 Base: SRC6
             </details>
 
-        - ### __ApiTasken__
+        - ### __apiTasken__
             <details>
                 <summary>URL</summary>
      
-                
+                http://10.50.16.47:8090
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.248
+                Base: SRC3
             </details>
 
+        - ### __ApiTasken - Homologação__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8091
+            </details>
+            <details>
+                <summary>Usuário Windowsummary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.93
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken - HomologalBL - Base39__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8092
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+        - ### __Tasken - Email - Sender__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8094
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39\rcp
+                Base: SRC
+            </details>
+
+        - ### __ApiBradescoBacen__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8099
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39\rcp
+                Base: SRC
+            </details>
+
+        - ### __API Tasken Bradesco unificada__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8280
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+        - ### __src web__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8082
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+
+        - ### __ApiTasken - Email - 39__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:9191
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39\\rcp
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken - HomologacaoBradesco - Base39__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8099
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC 
+            </details>
+
+        - ### __ApiTasken - SRC4__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8191
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.246
+                Base: SRC4
+            </details>
+
+        - ### __ApiTasken - SRC9__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8098
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.248
+                Base: SRC9
+            </details>
+
+        - ### __ApiTasken - Base 39__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8039
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC 
+            </details>
+
+        - ### __WSConsumo__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:88
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: cloud.tasken.com
+                Base: IntranetRCP
+            </details>
+
+        - ### __versionador__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:8050
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                Não se aplica
+            </details>
+
+        - ### __ApiLicença - 25 - Src11__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:3000
+            </details>
+            <details>
+                <summary>Usuário Winodows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.25
+                Base: SRC11
+            </details>
+
+        - ### __ApiLicença - 34 - SrcHmg__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:3001
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.34
+                Base: SRC
+            </details>
+
+        - ### __ApiLicença - 39bv - Src12__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:3002
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39\bv
+                Base: SRC12
+            </details>
+
+        - ### __ApiLicença - 39rcp - Src__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.47:3003
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 172.25.51.39\rcp
+                Base: SRC
+            </details>
+
+         - ###  __ApiLicença - 39rcp - Src6__
+             <details>
+                 <summary>URL</summary>
+     
+                 http://10.50.16.47:3004
+             </details>
+             <details>
+                 <summary>Usuário Windows</summary>
+     
+                 centralrc\rcp
+             </details>
+             <details>
+                 <summary>Banco</summary>
+     
+                 IP: 172.25.51.39\rcp
+                Base: SRC6
+             </details>
+
+         - ### __ApiLicença - 248 - Src3__
+             <details>
+                 <summary>URL</summary>
+     
+                 http://10.50.16.47:3006
+             </details>
+             <details>
+                 <summary>Usuário Windows</summary>
+     
+                 centralrc\rcp
+             </details>
+             <details>
+                 <summary>Banco</summary>
+     
+                 IP: 172.25.51.248
+                 Base: SRC3
+             </details>
+
+         - ### __ApiLicença - 248 - Src8__
+             <details>
+                 <summary>URL</summary>
+     
+                 http://10.50.16.47:3007
+             </details>
+             <details>
+                 <summary>Usuário Windows</summary>
+     
+                 centralrc\rcp
+             </details>
+             <details>
+                 <summary>Banco</summary>
+     
+                 IP: 172.25.51.248
+                 Base: SRC8
+             </details>
+
+         - ### __ApiServicos360 - Middleware do SAUC__
+             <details>
+                 <summary>URL</summary>
+     
+                 http://10.50.16.47:6047
+             </details>
+             <details>
+                 <summary>Usuário Windows</summary>
+     
+                 centralrc\rcp
+             </details>
+             <details>
+                 <summary>Banco</summary>
+     
+                 Não se aplica
+             </details>
+            
+
+    - ## **Serviços Windows**
+        - ### __Tasken Process - Base 39 - SRC6__
+            <details>
+                <summary>Banco</summary>
+
+                IP: 10.50.16.139
+                Base: TaskenProcessSRC6
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                centralrc\rcp
+            </details>
+
+        - ### __Tasken Process - Base 248 - SRC8__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.248
+                Base: TaskenProcess
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+
+        - ### __Tasken Process - Base 248 - SRC9__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.248
+                Base: TaskenProcessSRC9
+            </details>
+
+        - ### __Tasken Process - Homologação__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.93
+                Base: TaskenProcess
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+
+        - ### __Tasken Process - Produção__
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: TaskenProcess
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+
+##### [**Voltar para o início**](#crc)
+
+<br>
+
+# **APIs**
+Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
+
+- ## **10.50.16.97 - Servidor de Aplicação**
+    - ## **IIS**
+        - ### __ApiSrc360 - HOMOLOGA__
+            <details>
+                <summary>URL</summary>
+ 
+                http://10.50.16.97:8045
+                http://10.50.16.97:443
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+        - ### __ApiSrc360 - PROD__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.97:8044
+                http://10.50.16.97:443
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+        - ### __ApiTasken - Base39 - registroBoleto__
+            <details>
+                <summary>URL</summary>
+     
+                http://10.50.16.97:8039
+            </details>
+            <details>
+                <summary>Usuário Windows/summary>
+     
+                centralrc\rcp
+            </details>
+            <details>
+                <summary>Banco</summary>
+     
+                IP: 10.50.16.139
+                Base: SRC
+            </details>
+
+    - ## **Serviços Windows**
+        - ### __Tasken Process - Base125-SRC11__
+            <details>
+                <summary>Banco</summary>
+ 
+                IP: 10.50.16.125
+                Base: TaskenProcess
+            </details>
+            <details>
+                <summary>Usuário Windows</summary>
+ 
+                centralrc\rcp
+            </details>
+
+
+
+            
 
 
 
