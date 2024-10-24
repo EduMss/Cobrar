@@ -1,11 +1,11 @@
 # **Cobrar**
-### 1. [**APIs**](#apis_cobrar)
-### 2. [**Banco de Dados**](#banco-de-dados)
+### 1. [**APIs**](#apis-cobrar)
+### 2. [**Banco de Dados**](#banco-de-dados_cobrar)
 ### 3. [**Linux**](#linux)
 
 <br>
 
-# **APIs_Cobrar**
+# **APIs Cobrar**
 Aqui vai ficar algumas informações de IP e PORTA e qual API está sendo executada,
 
 - ## **192.168.1.93 - Servidor de Aplicação**
